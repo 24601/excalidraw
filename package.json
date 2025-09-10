@@ -19,7 +19,7 @@
     ]
   },
   "dependencies": {
-    "@sentry/browser": "5.22.3",
+    "@sentry/browser": "7.119.1",
     "@sentry/integrations": "5.22.3",
     "@testing-library/jest-dom": "5.11.4",
     "@testing-library/react": "10.4.9",
@@ -31,22 +31,22 @@
     "browser-nativefs": "0.10.3",
     "i18next-browser-languagedetector": "6.0.1",
     "lodash.throttle": "4.1.1",
-    "nanoid": "2.1.11",
-    "node-sass": "4.14.1",
-    "open-color": "1.7.0",
+    "nanoid": "3.3.8",
+    "node-sass": "9.0.0",
+    "open-color": "1.9.1",
     "points-on-curve": "0.2.0",
     "pwacompat": "2.0.17",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-scripts": "3.4.3",
+    "react-scripts": "5.0.1",
     "roughjs": "4.3.1",
-    "socket.io-client": "2.3.0",
+    "socket.io-client": "2.5.0",
     "typescript": "3.9.7"
   },
   "devDependencies": {
     "@types/lodash.throttle": "4.1.6",
     "asar": "3.0.3",
-    "eslint": "6.8.0",
+    "eslint": "9.35.0",
     "eslint-config-prettier": "6.11.0",
     "eslint-plugin-prettier": "3.1.4",
     "husky": "4.2.5",
@@ -54,7 +54,7 @@
     "lint-staged": "10.3.0",
     "pepjs": "0.5.2",
     "prettier": "2.1.1",
-    "rewire": "5.0.0"
+    "rewire": "9.0.1"
   },
   "engines": {
     "node": ">=12.0.0"
